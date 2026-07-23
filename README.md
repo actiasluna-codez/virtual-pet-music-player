@@ -13,19 +13,36 @@ ESP32 WROOM-32D + voltage regulator</strong>
 
 <strong>Adafruit PowerBoost 1000C</strong>
 <ul>
-  <li></li>
+  <li>battery charger + boost converter in one</li>
+  <li>load sharing: can charge the battery while also powering the console</li>
 </ul>
 
-1.8" ST7735R TFT LCD Screen
+<strong>1.8" ST7735R TFT LCD Screen</strong>
+<ul>
+  <li>colored</li>
+  <li>good enough size for this project</li>
+</ul>
 
 <strong>MAX983578a</strong>
+<ul>
+  <li>16 bit DAC (Digital-Analog converter) + audio amplifier in one</li>
+  <li>accepts 3.3V input</li>
+  
+</ul>
 
-8 ohm speaker 
+<strong>8 ohm speaker</strong>
+<ul>
+  <li>quieter than 4 ohm, but draws less current</li>
+</ul>
 
-4 tactile buttons
+<strong>4 tactile buttons</strong>
 
-1 
-
+<strong>1 BBM slide switch</strong>
+<ul>
+  <li>can be used as a power switch for the PowerBoost</li>
+  <li>be careful to get a BBM (break before make) switch and not a MBB (make before break) switch</li>
+  <li>MBB switches make the new connection before breaking the old one, creating a chance of a short-circut</li>
+</ul>
 
 <h2>why am I making this? </h2>
 1. I've always wanted one of those tomodatchi virtual pets, but have never been allowed to get one 😭
