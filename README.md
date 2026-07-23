@@ -11,10 +11,13 @@ a tomodatchi-esque virtual pet console that has built in Bluetooth capabilities,
 long story short, i started this project a while ago (in geometry class ofc) and gave up after a while due to worries abt costs (shit do be expensive sometimes lmao) so shoutout to HackClub cus now i dont have to worry abt that!!
 
 <h3>first concept</h3>
+![1000013650](https://github.com/user-attachments/assets/ae833829-dfd9-400e-a0df-624e16e1deeb)
 
 <h3>colored design</h3>
+![1000013647](https://github.com/user-attachments/assets/05538aee-0e50-469c-8ae6-028027e253eb)
 
 <h3>started diagram in Digikey SchemeIt</h3>
+![1000013648](https://github.com/user-attachments/assets/ff4040b8-e942-4f0a-92da-239bf8a3b8ce)
 
 <h2>what im i working on now?</h2>
 <ul>
