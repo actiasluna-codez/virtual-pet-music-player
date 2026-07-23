@@ -1,8 +1,25 @@
 # virtual-pet-music-player
 a tomodatchi-esque virtual pet console that has built in Bluetooth capabilities, allowing it to double as a music player!
 
-why am I making this?
+<h2>why am I making this? </h2>
 1. I've always wanted one of those tomodatchi virtual pets, but have never been allowed to get one 😭
 2. as an avid music listener, I wanted to take inspiration from these virtual pet consoles and personalize it! especially because I love the idea of music players (I actually have a collection of radios, CD players, MP3 players, cassette players, CDs, and cassettes — id love to start collecting vinyl in the future hehe)
 3. upon taking apart both of my cassette players and scrapping them for parts (speakers, mics, etc.) i have come to realize i no longer have any cool, handheld music devices (besides a cd player that only works 20% of the time and a cheap MP3 player from Amazon 😭)
 4. I've been wanting to get into Bluetooth and 3d printing, as i have never actually 3d printed before!
+
+<h2>what i have so far</h2>
+long story short, i started this project a while ago (in geometry class ofc) and gave up after a while due to worries abt costs (shit do be expensive sometimes lmao) so shoutout to HackClub cus now i dont have to worry abt that!!
+
+<h3>first concept</h3>
+
+<h3>colored design</h3>
+
+<h3>started diagram in Digikey SchemeIt</h3>
+
+<h2>what im i working on now?</h2>
+<ul>
+<li>finishing up the SchemeIt diagram so i can get the basic idea of how it's wired up</li>
+<li>breadboard it with materials i DO have</li>
+
+
+
