@@ -1,6 +1,32 @@
 # virtual-pet-music-player
 a tomodatchi-esque virtual pet console that has built in Bluetooth capabilities, allowing it to double as a music player!
 
+<h2>parts list</h2>
+<strong>ESP32 DevKit V1 (for prototyping)
+or
+ESP32 WROOM-32D + voltage regulator</strong>
+<ul>
+<li>A2DP (Advanced Audio Distribution Profile) for sharing music one-way between two Bluetooth devices</li>
+<li>DevKit accepts 5V input from PowerBoost 1000C because of 3.3V regulator </li>
+<li>accepts Bluetooth in general.</li>
+</ul>
+
+<strong>Adafruit PowerBoost 1000C</strong>
+<ul>
+  <li></li>
+</ul>
+
+1.8" ST7735R TFT LCD Screen
+
+<strong>MAX983578a</strong>
+
+8 ohm speaker 
+
+4 tactile buttons
+
+1 
+
+
 <h2>why am I making this? </h2>
 1. I've always wanted one of those tomodatchi virtual pets, but have never been allowed to get one 😭
 2. as an avid music listener, I wanted to take inspiration from these virtual pet consoles and personalize it! especially because I love the idea of music players (I actually have a collection of radios, CD players, MP3 players, cassette players, CDs, and cassettes — id love to start collecting vinyl in the future hehe)
